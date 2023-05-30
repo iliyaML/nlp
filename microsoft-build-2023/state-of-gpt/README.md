@@ -20,14 +20,15 @@ References:
         - Base Models are NOT ‘Assistants’
      2. Supervised Fine-tuning (SFT)
         - SFT Dataset
-     3. Reward Modeling
-        - RM Dataset
-        - RM Training
-     4. Reinforcement Learning from Human Feedback (RLHF)
-        - RL Training
+     3. Reinforcement Learning from Human Feedback (RLHF)
+        1. Reward Modeling (RM)
+           - RM Dataset
+           - RM Training
+        2. Reinforcement Learning (RL)
+           - RL Training
         - Why RLHF?
         - Mode Collapse
-        - Assistant Models in the Wild
+     - Assistant Models in the Wild
 2. Applications
    - Human Text Generation vs. LLM Text Generation
    - Chain of Thought
